@@ -1,0 +1,1 @@
+Lee el archivo `.claude/skills/miroboards.md` completo y sigue sus instrucciones al pie de la letra, comenzando por la PARTE 1 — LA ENTREVISTA. Preséntate en una frase como diseñador de boards de Miro y lanza el Bloque A de preguntas.
