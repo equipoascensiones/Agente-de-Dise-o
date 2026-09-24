@@ -1,0 +1,2557 @@
+1
+00:00:00,030 --> 00:00:05,280
+Hola, chicos, y bienvenidos a la última clase,
+la última clase de guiones de los videos,
+
+2
+00:00:05,280 --> 00:00:07,950
+porque, de nuevo, solo necesitamos
+guionizar cuatro videos.
+
+3
+00:00:08,250 --> 00:00:12,450
+Necesitamos el "Cómo hice X", que es el
+primer video, ¿vale?, que vamos a hacer en la
+
+4
+00:00:12,460 --> 00:00:15,660
+estrategia. Luego necesitamos el
+segundo video, que va a ser The One.
+
+5
+00:00:16,230 --> 00:00:20,130
+Luego vamos a necesitar el
+mini The One, que es este.
+
+6
+00:00:20,520 --> 00:00:24,090
+Y luego vamos a necesitar
+los guiones generales, ¿vale?
+
+7
+00:00:24,090 --> 00:00:25,800
+Y los guiones generales
+que vamos a necesitar
+
+8
+00:00:26,070 --> 00:00:30,060
+están todos en la clase de guiones, ¿vale?
+
+9
+00:00:30,180 --> 00:00:34,800
+Así que en esta clase lo único que voy a
+hacer es enseñarte a hacer esta masterclass.
+
+10
+00:00:35,220 --> 00:00:39,900
+¿Vale? Que va en el orden que ya
+te expliqué en el otro video.
+
+11
+00:00:40,020 --> 00:00:42,570
+Muy bien. Así que vamos a ello.
+
+12
+00:00:42,750 --> 00:00:48,480
+El objetivo de este video es muy
+sencillo: aumentar la emoción
+
+13
+00:00:48,750 --> 00:00:50,550
+de alguien por este video.
+
+14
+00:00:50,550 --> 00:00:56,460
+He visto mucho este video en internet
+y de verdad ayuda a que la gente se
+
+15
+00:00:56,460 --> 00:01:02,460
+emocione. ¿Por qué? Porque es una versión
+muy corta de un tutorial; es muchísimo más
+
+16
+00:01:02,460 --> 00:01:03,990
+corta. ¿Qué significa eso?
+
+17
+00:01:04,270 --> 00:01:06,780
+Significa que el tutorial podría durar...
+
+18
+00:01:06,780 --> 00:01:08,850
+Por ejemplo, The One puede durar
+
+19
+00:01:09,660 --> 00:01:12,660
+entre 30 y 40 minutos o una hora.
+
+20
+00:01:12,660 --> 00:01:16,860
+¿Vale? Y este va a durar unos 12 minutos.
+
+21
+00:01:17,130 --> 00:01:18,330
+Ese es el punto ideal.
+
+22
+00:01:18,360 --> 00:01:22,110
+Puedes hacerlo de menos de diez; la
+versión más corta que he visto por ahí en
+
+23
+00:01:22,110 --> 00:01:24,000
+internet dura como ocho minutos.
+
+24
+00:01:24,180 --> 00:01:27,420
+Obviamente hay versiones de tres
+minutos y cosas así, que son muy
+
+25
+00:01:27,420 --> 00:01:28,650
+específicas.
+
+26
+00:01:28,650 --> 00:01:31,980
+Pero en tres minutos no tienes tiempo
+suficiente para mostrar toda esta información.
+
+27
+00:01:31,980 --> 00:01:37,290
+Así que normalmente estos videos suelen
+durar de 10 a 15 minutos como máximo.
+
+28
+00:01:37,380 --> 00:01:43,320
+¿Vale? En este video quiero
+que presumas un poco de
+
+29
+00:01:43,320 --> 00:01:46,080
+lo que haces, que presumas un
+poco de tus habilidades y demás.
+
+30
+00:01:46,320 --> 00:01:47,670
+Este video tiene que ser genérico.
+
+31
+00:01:47,670 --> 00:01:52,080
+Este video no puede ser un
+problema específico que arreglar.
+
+32
+00:01:52,080 --> 00:01:54,480
+Por ejemplo, este video no
+puede ser muy concreto.
+
+33
+00:01:54,840 --> 00:01:59,910
+Vale, por ejemplo: "Cómo venderle cualquier cosa
+a cualquiera", "Cómo aprender inglés en menos de
+
+34
+00:01:59,910 --> 00:02:05,850
+diez minutos", "Cómo grabar videos
+de cualquier cosa", "Cómo hablar
+
+35
+00:02:05,850 --> 00:02:06,960
+a cámara", por ejemplo.
+
+36
+00:02:06,960 --> 00:02:09,510
+Sea lo que sea, es más genérico.
+
+37
+00:02:09,510 --> 00:02:11,490
+No es tan específico.
+
+38
+00:02:11,490 --> 00:02:15,660
+No es que vayas a enseñar a la gente
+a arreglar una bici, por ejemplo,
+
+39
+00:02:15,660 --> 00:02:18,810
+ni a hacer, no sé, algo simple o
+
+40
+00:02:18,810 --> 00:02:22,080
+específico, como poner un logo en una web.
+
+41
+00:02:22,080 --> 00:02:24,660
+No, este video tiene que ser
+"Cómo crear una web", en general.
+
+42
+00:02:24,660 --> 00:02:28,470
+Vale, así que lo que va a hacer este
+video es repasar a grandes rasgos,
+
+43
+00:02:28,470 --> 00:02:32,190
+por encima, The One,
+el tutorial principal.
+
+44
+00:02:32,190 --> 00:02:36,480
+¿Vale? Y lo que vamos a hacer
+es explicar las cosas que
+
+45
+00:02:36,480 --> 00:02:39,210
+tienen que hacer, explicar
+los pasos, pero sin hacerlos.
+
+46
+00:02:39,210 --> 00:02:44,280
+Así que la principal diferencia
+entre The One y este es que en este
+
+47
+00:02:44,280 --> 00:02:45,340
+lo único que vamos a hacer es hablar.
+
+48
+00:02:45,360 --> 00:02:49,240
+Por ejemplo: "Vas aquí, haces clic
+en herramientas, haces esto, luego
+
+49
+00:02:49,260 --> 00:02:51,420
+haces aquello y luego
+haces aquello", ¿vale?
+
+50
+00:02:51,660 --> 00:02:55,020
+Pero no vas a herramientas,
+haces clic y esperas a que
+
+51
+00:02:55,020 --> 00:02:56,670
+cargue. No lo haces.
+
+52
+00:02:56,790 --> 00:02:58,290
+Muestras los pasos.
+
+53
+00:02:58,560 --> 00:03:01,830
+Les muestras dónde
+están y cómo hacer clic.
+
+54
+00:03:02,100 --> 00:03:04,050
+Pero no haces el proceso con ellos.
+
+55
+00:03:04,050 --> 00:03:07,320
+No haces clic y esperas
+a que se haga el proceso.
+
+56
+00:03:07,320 --> 00:03:11,700
+Por ejemplo, como el video que hice
+con el "Cómo hice X": en ese video
+
+57
+00:03:11,700 --> 00:03:13,740
+ya tengo algo guionizado.
+
+58
+00:03:13,740 --> 00:03:17,970
+Así que lo repaso y te muestro el
+ejemplo, pero no estoy creando el
+
+59
+00:03:17,970 --> 00:03:22,410
+ejemplo ahí. Así que, vale, paso a paso;
+en realidad eso está un poco mal porque
+
+60
+00:03:22,410 --> 00:03:23,880
+podría haber ido más rápido.
+
+61
+00:03:23,970 --> 00:03:29,010
+Y ese video, por ejemplo, el "Cómo
+hice", el segundo video de todo esto...
+
+62
+00:03:29,010 --> 00:03:31,890
+bueno, el segundo video del curso,
+pero es el primer video que vas a
+
+63
+00:03:31,890 --> 00:03:33,090
+publicar. Espero que lo entiendas.
+
+64
+00:03:33,090 --> 00:03:38,970
+Así que en este video en concreto solo
+tendrás que mostrar los pasos; no tendrás
+
+65
+00:03:38,970 --> 00:03:40,890
+que hacerlo clic a clic.
+
+66
+00:03:41,190 --> 00:03:44,190
+Entrando en la estructura,
+es muy, muy fácil.
+
+67
+00:03:44,190 --> 00:03:48,660
+Puedes aplicar los mismos ganchos que en el
+otro o puedes aplicar este gancho específico.
+
+68
+00:03:48,660 --> 00:03:50,220
+No cambia nada.
+
+69
+00:03:50,220 --> 00:03:54,330
+Es cuestión de personalidad y de cómo
+se va a construir tu video, ¿vale?
+
+70
+00:03:54,480 --> 00:03:57,240
+Así que vamos a entrar aquí y
+vamos a ver la primera fase.
+
+71
+00:03:57,240 --> 00:04:00,630
+La primera fase es el
+gancho, obviamente, ¿vale?
+
+72
+00:04:00,750 --> 00:04:04,440
+Así que voy a decirte: "Cómo
+conseguir 100.000 suscriptores en
+
+73
+00:04:04,440 --> 00:04:06,360
+YouTube". ¿Verdad? Y tengo
+una placa de YouTube.
+
+74
+00:04:06,360 --> 00:04:11,010
+Eso te muestra suficiente
+prueba, certeza y validación.
+
+75
+00:04:11,010 --> 00:04:14,820
+¿Vale? Si quiero enseñarte a hacer
+algo, necesito mostrar pruebas.
+
+76
+00:04:15,030 --> 00:04:18,660
+Así que lo que uso en estos videos es
+mostrar pruebas justo al principio.
+
+77
+00:04:18,960 --> 00:04:22,200
+Y la prueba es completamente
+distinta de la de The One.
+
+78
+00:04:22,200 --> 00:04:24,180
+En The One tienes que
+demostrar que eres experto.
+
+79
+00:04:24,180 --> 00:04:27,600
+Tengo que demostrar que he trabajado con
+toda esa gente para que confíes en la
+
+80
+00:04:27,600 --> 00:04:31,110
+información que te puedo dar, pero
+en videos gratis, la información que
+
+81
+00:04:31,110 --> 00:04:32,430
+te doy en los videos gratis.
+
+82
+00:04:32,520 --> 00:04:37,050
+Así que la gente suele quedarse
+más tiempo y comprometerse más.
+
+83
+00:04:37,260 --> 00:04:40,470
+En cambio, en este video no te
+voy a dar nada; solo te voy a
+
+84
+00:04:40,590 --> 00:04:44,280
+vender los pasos y te voy
+a vender la idea, ¿vale?
+
+85
+00:04:44,580 --> 00:04:47,760
+Solo te lo voy a mostrar; solo
+voy a hablar de ello brevemente.
+
+86
+00:04:48,030 --> 00:04:49,890
+Así que la gente necesita más emoción.
+
+87
+00:04:49,890 --> 00:04:51,030
+La gente necesita fuerza.
+
+88
+00:04:51,030 --> 00:04:55,500
+La gente necesita un gancho más
+atrapante para quedarse a ver el video.
+
+89
+00:04:55,650 --> 00:04:57,090
+¿Vale? ¿Cómo lo hacemos?
+
+90
+00:04:57,090 --> 00:04:59,910
+Muy fácil. Literalmente los impactamos.
+
+91
+00:04:59,910 --> 00:05:01,740
+Y en el primerísimo momento
+
+92
+00:05:01,740 --> 00:05:04,380
+los impresionamos con el resultado.
+
+93
+00:05:04,380 --> 00:05:05,970
+Presentamos el resultado al instante.
+
+94
+00:05:05,970 --> 00:05:08,880
+Por ejemplo: "Cómo meter
+un triple como estos".
+
+95
+00:05:10,060 --> 00:05:15,270
+Simplemente, ya sabes, es algo lo bastante
+grande y amplio para atraer a la gente,
+
+96
+00:05:15,270 --> 00:05:17,940
+aunque no sea algo genérico
+de cómo jugar al baloncesto.
+
+97
+00:05:18,120 --> 00:05:21,990
+Y es algo específico:
+cómo meter un triple.
+
+98
+00:05:21,990 --> 00:05:27,600
+Tiene pasos, tiene las piernas...
+Algo mal hecho sería "Cómo
+
+99
+00:05:27,600 --> 00:05:30,390
+colocar las piernas para meter un triple".
+
+100
+00:05:30,390 --> 00:05:32,310
+Eso es demasiado específico.
+
+101
+00:05:32,550 --> 00:05:36,930
+Ahora, si te digo cuál es el
+resultado final, meter triples en un
+
+102
+00:05:36,930 --> 00:05:40,980
+partido de baloncesto, pues
+lo vas a querer, ¿vale?
+
+103
+00:05:41,310 --> 00:05:43,770
+Tiene que ser atractivo para la audiencia.
+
+104
+00:05:44,130 --> 00:05:48,090
+Por lo tanto, lo primero que vas
+a hacer en el gancho es mostrarlo.
+
+105
+00:05:48,420 --> 00:05:53,850
+¿Vale? Si el video se llama "Cómo gano 500
+dólares al día", te voy a mostrar mi cuenta
+
+106
+00:05:53,850 --> 00:05:55,680
+bancaria haciendo 500 dólares al día.
+
+107
+00:05:56,100 --> 00:06:00,780
+Normalmente hay gente que hace estos
+videos y no muestra ninguna prueba.
+
+108
+00:06:01,230 --> 00:06:03,030
+Eso es un poco sospechoso, ¿vale?
+
+109
+00:06:03,190 --> 00:06:05,430
+Por eso intento ser tan
+real con estos videos.
+
+110
+00:06:05,520 --> 00:06:10,860
+Y eso te va a ayudar a conectar muchísimo
+más con la audiencia y a mantener
+
+111
+00:06:10,860 --> 00:06:16,830
+a la gente no solo enganchada sino confiada,
+porque la gente tiende a no confiar en ti si
+
+112
+00:06:16,830 --> 00:06:21,690
+lo que dices no es verdad o
+no muestras pruebas. Vale, si
+
+113
+00:06:21,690 --> 00:06:27,120
+te pillan diciendo algo que no es
+verdad, vas a tener un problema porque
+
+114
+00:06:27,420 --> 00:06:28,650
+a la gente no le va a gustar.
+
+115
+00:06:28,770 --> 00:06:33,240
+Muy bien. Así que lo primero que hago es
+intentar demostrarlo, aunque sea con una pequeña
+
+116
+00:06:33,240 --> 00:06:35,190
+prueba. Por ejemplo, este no es mi canal.
+
+117
+00:06:35,190 --> 00:06:38,100
+Es el canal de uno de mis
+clientes, pero tengo esto aquí.
+
+118
+00:06:38,220 --> 00:06:40,680
+Tengo una placa de YouTube del
+canal de uno de mis clientes.
+
+119
+00:06:40,680 --> 00:06:41,490
+Puedes buscarlo.
+
+120
+00:06:41,490 --> 00:06:42,780
+Vas a ver su cara.
+
+121
+00:06:42,780 --> 00:06:45,750
+Vas a ver que tengo fotos
+con esa persona, ¿vale?
+
+122
+00:06:45,750 --> 00:06:49,890
+Y te vas a dar cuenta: "Oh,
+este tipo quizá no lo hace para
+
+123
+00:06:49,890 --> 00:06:52,260
+sí mismo, pero sabe hacerlo para otros".
+
+124
+00:06:52,320 --> 00:06:56,250
+Ya sabes, el contenido que creaste para
+otros le dio un canal que consiguió una
+
+125
+00:06:56,250 --> 00:06:59,970
+placa de YouTube. Y ahora tienes
+esta placa de YouTube y, ya sabes,
+
+126
+00:06:59,970 --> 00:07:01,110
+empezamos a caminar. ¿Verdad?
+
+127
+00:07:01,110 --> 00:07:06,840
+Así que me di cuenta de que eso es un
+punto clave cuando intentamos validar algo.
+
+128
+00:07:07,110 --> 00:07:10,050
+Normalmente el tutorial,
+como dije, es más genérico.
+
+129
+00:07:10,050 --> 00:07:13,530
+Así que aquí necesito validar
+más la cosa que voy a enseñar.
+
+130
+00:07:13,530 --> 00:07:18,630
+Si te digo que voy a ganar dinero
+vendiendo botellas de agua,
+
+131
+00:07:18,840 --> 00:07:23,820
+tengo que mostrarte una foto mía,
+o un video, o un trozo de video mío
+
+132
+00:07:24,120 --> 00:07:25,410
+vendiendo esa agua.
+
+133
+00:07:25,410 --> 00:07:30,960
+Así me vas a creer que vendo
+botellas de agua, ¿verdad?
+
+134
+00:07:31,080 --> 00:07:33,360
+Esto es lo que tenemos
+que mostrar en el gancho.
+
+135
+00:07:33,360 --> 00:07:36,570
+Sea lo que sea que enseñes,
+sea lo que sea de lo que
+
+136
+00:07:36,570 --> 00:07:39,420
+presumas, eso de lo que
+presumes tiene que ser verdad.
+
+137
+00:07:39,630 --> 00:07:43,830
+¿Vale? Básicamente, si saco un video que
+dice "Cómo conseguir un six pack", "Cómo
+
+138
+00:07:43,830 --> 00:07:45,450
+marcar abdominales", y
+yo tengo abdominales,
+
+139
+00:07:45,450 --> 00:07:49,560
+y te los muestro, cómo
+tenerlos así, ya sabes, muy
+
+140
+00:07:49,560 --> 00:07:52,530
+fuertes, rápido y demás,
+
+141
+00:07:52,530 --> 00:07:54,260
+vas a pensar: "Oh, sí, ese
+tipo tiene abdominales.
+
+142
+00:07:54,360 --> 00:07:55,560
+Vale, enséñame a conseguir abdominales.
+
+143
+00:07:55,560 --> 00:07:56,970
+Quiero esos abdominales que tienes".
+
+144
+00:07:57,000 --> 00:07:59,580
+¿Vale? Así que queda probado al instante.
+
+145
+00:07:59,730 --> 00:08:05,580
+Pero si no los tengo y hago eso y
+te digo cómo conseguir abdominales,
+
+146
+00:08:05,910 --> 00:08:10,470
+más te vale mostrarme una foto de alguien
+a quien ayudaste o algún resultado, porque
+
+147
+00:08:10,470 --> 00:08:12,000
+no te voy a creer de entrada.
+
+148
+00:08:12,030 --> 00:08:15,660
+Vale, puedo ver que
+mientes sin que lo digas.
+
+149
+00:08:15,840 --> 00:08:18,510
+Vale, veo que no tienes abdominales.
+
+150
+00:08:18,780 --> 00:08:20,940
+Entonces, ¿cómo me vas a
+enseñar a tener abdominales?
+
+151
+00:08:20,940 --> 00:08:22,770
+Así que ahí tienes que
+mostrarlo al instante.
+
+152
+00:08:22,770 --> 00:08:24,510
+"¿Ves esta foto de aquí?
+
+153
+00:08:24,600 --> 00:08:27,240
+Este es mi cliente, se llama Bob.
+
+154
+00:08:27,360 --> 00:08:29,220
+Y esta es una foto mía con él.
+
+155
+00:08:29,220 --> 00:08:33,390
+Y este es un video mío entrenándolo en
+el gimnasio para tener abdominales.
+
+156
+00:08:33,390 --> 00:08:37,740
+Yo no tengo abdominales porque tengo este
+problema, o esto, o la excusa que sea, pero
+
+157
+00:08:37,740 --> 00:08:40,320
+todos mis clientes tienen
+abdominales, como este tipo.
+
+158
+00:08:40,320 --> 00:08:41,490
+Tengo a este tipo y a este otro".
+
+159
+00:08:41,520 --> 00:08:44,040
+¿Vale? Y así lo estás demostrando.
+
+160
+00:08:44,130 --> 00:08:46,710
+Estás cumpliendo esa promesa.
+
+161
+00:08:46,710 --> 00:08:49,500
+Vale, eso es literalmente todo lo que uso.
+
+162
+00:08:49,500 --> 00:08:53,250
+Simplemente muestro el logro, los resultados
+que, ya sabes, el espectador quiere.
+
+163
+00:08:53,550 --> 00:08:55,860
+Y la razón por la que
+hizo clic en el video.
+
+164
+00:08:55,860 --> 00:09:00,650
+Así que simplemente di "Quiero mostrarte
+cómo puedes lograr X" y luego muestras los
+
+165
+00:09:00,660 --> 00:09:03,540
+resultados. Déjame reescribir esto rápido.
+
+166
+00:09:03,540 --> 00:09:06,330
+Lo que vas a hacer es poner esto aquí.
+
+167
+00:09:06,480 --> 00:09:08,550
+Vas a mostrar todos los resultados, ¿vale?
+
+168
+00:09:08,790 --> 00:09:09,750
+Puedes hablarle a la audiencia.
+
+169
+00:09:09,750 --> 00:09:11,610
+Puedes decir: "Oye, me llamo tal".
+
+170
+00:09:11,790 --> 00:09:12,990
+¿Vale? ¿Eres tú mismo?
+
+171
+00:09:12,990 --> 00:09:14,610
+Y luego aquí: "Quiero
+mostrarte..." La promesa.
+
+172
+00:09:14,610 --> 00:09:19,890
+¿Verdad? Es lo mismo que en el gancho,
+como te enseñé en el OmniScript:
+
+173
+00:09:19,920 --> 00:09:21,480
+vas a mostrar los resultados en este.
+
+174
+00:09:21,760 --> 00:09:25,080
+Es muy, muy directo al grano.
+
+175
+00:09:25,080 --> 00:09:30,210
+Es muy específico. Y está justo en
+el primer instante del video, ¿vale?
+
+176
+00:09:30,390 --> 00:09:33,030
+Así que muestra los resultados.
+Primer paso, segundo paso:
+
+177
+00:09:33,120 --> 00:09:34,120
+prométeme algo.
+
+178
+00:09:34,140 --> 00:09:36,750
+Así que vamos: resultado, promesa.
+
+179
+00:09:37,050 --> 00:09:41,760
+"Te prometo que en este video vas a,
+ya sabes, tener abdominales mañana", y
+
+180
+00:09:41,760 --> 00:09:46,260
+luego te presentas con la validación,
+obviamente, diciendo algo como: "Oh, y puedo
+
+181
+00:09:46,260 --> 00:09:49,530
+hablar de esto porque soy este tipo
+y llevo mucho tiempo haciéndolo".
+
+182
+00:09:49,540 --> 00:09:51,060
+Lo que sea. No tienes que hacerlo
+
+183
+00:09:51,060 --> 00:09:56,970
+tan largo. Pero, ya sabes,
+puedes hacerlo en una frase,
+
+184
+00:09:56,970 --> 00:10:00,420
+como: "Llevo siete años haciendo
+esto con este tipo, este y
+
+185
+00:10:00,420 --> 00:10:02,370
+este", digamos, y puedes seguir.
+
+186
+00:10:02,610 --> 00:10:03,660
+Obviamente, cuanto más largo, mejor.
+
+187
+00:10:03,660 --> 00:10:04,890
+Pero no tienes por qué.
+
+188
+00:10:04,950 --> 00:10:06,870
+Vale. Luego entramos en el punto.
+
+189
+00:10:06,870 --> 00:10:11,370
+Ahora ves un poco cómo se
+combinan el OmniScript y The One.
+
+190
+00:10:11,460 --> 00:10:13,800
+¿Vale? Así funcionan esas cosas.
+
+191
+00:10:13,890 --> 00:10:17,880
+Por eso creé este, lo combiné
+y, ya sabes, lo apliqué con mis
+
+192
+00:10:17,880 --> 00:10:21,750
+clientes. ¿Vale? Por ejemplo, déjame
+demostrarte que esto funciona.
+
+193
+00:10:21,900 --> 00:10:27,150
+Muy bien. Aquí es donde este cliente me
+contrató, cuando no tenía visualizaciones en
+
+194
+00:10:27,150 --> 00:10:32,190
+este video. Por ejemplo, ves aquí
+50.000, 47.000, 50.000, 56.000 y cosas
+
+195
+00:10:32,190 --> 00:10:35,100
+así. Y luego me contrató
+para empezar con él.
+
+196
+00:10:35,280 --> 00:10:37,440
+Después, los videos
+empezaron a funcionar mejor.
+
+197
+00:10:37,680 --> 00:10:41,550
+Y en este video concreto vas
+a ver que hay uno muy, muy
+
+198
+00:10:41,550 --> 00:10:44,550
+bueno, que es este: 1 millón.
+
+199
+00:10:44,550 --> 00:10:47,340
+Este es el mini The One.
+
+200
+00:10:47,550 --> 00:10:51,870
+Vale, subí el mini The One para
+generar emoción en la gente.
+
+201
+00:10:52,230 --> 00:10:54,930
+Este es un ejemplo en francés,
+en el mercado francés.
+
+202
+00:10:55,260 --> 00:11:00,120
+Y lo que hice fue decirle a la gente:
+"Así es como empiezas; así es como
+
+203
+00:11:00,120 --> 00:11:06,060
+empezar un e-commerce de dropshipping",
+básicamente un negocio de dropshipping con 0 euros
+
+204
+00:11:06,060 --> 00:11:11,070
+o dólares o lo que sea, en 2022
+o 2023, cuando trabajaba con él.
+
+205
+00:11:11,520 --> 00:11:16,680
+Y, ya sabes, subimos ese video
+y luego, dos videos o, bueno,
+
+206
+00:11:16,680 --> 00:11:21,960
+tres videos después, subimos The One,
+¿vale?, que es este video de aquí que
+
+207
+00:11:21,960 --> 00:11:23,430
+consiguió 1,1 millones de visualizaciones.
+
+208
+00:11:23,430 --> 00:11:24,390
+Puedes ver la diferencia.
+
+209
+00:11:24,390 --> 00:11:28,860
+Puedes ver que todo lo demás son
+300.000, 60.000, y este son 900.000
+
+210
+00:11:28,860 --> 00:11:32,160
+visualizaciones. Luego este
+tiene 150.000, 300.000.
+
+211
+00:11:32,160 --> 00:11:36,360
+Fue una idea bastante buena que probé con él,
+pero luego ese tiene 1 millón de visualizaciones.
+
+212
+00:11:36,600 --> 00:11:41,100
+Y el resto de los videos tienen
+200.000, 350.000, ya sabes, la media.
+
+213
+00:11:41,280 --> 00:11:45,120
+Vale. Este 166.000. Así
+que este fue un mal video.
+
+214
+00:11:45,120 --> 00:11:46,200
+Este video tuvo 300.000.
+
+215
+00:11:46,200 --> 00:11:48,510
+Pero puedes ver que esos
+videos llegan casi al millón.
+
+216
+00:11:49,020 --> 00:11:50,580
+Hay dos videos aquí.
+
+217
+00:11:50,910 --> 00:11:54,540
+¿Por qué? Porque son los videos que
+he probado con muchísimos clientes.
+
+218
+00:11:54,540 --> 00:11:56,610
+Y los he estado probando
+durante los últimos años.
+
+219
+00:11:56,760 --> 00:12:00,540
+Y funcionan. Básicamente
+son casi infalibles.
+
+220
+00:12:00,720 --> 00:12:05,340
+¿Vale? Por eso te animo a hacer este
+video y este video, y aquí tienes la
+
+221
+00:12:05,340 --> 00:12:06,360
+prueba para que lo hagas.
+
+222
+00:12:06,480 --> 00:12:07,980
+¿Vale? Y eso es en el mercado francés.
+
+223
+00:12:08,020 --> 00:12:10,350
+Imagina si lo hiciera en el
+mercado inglés o en el español.
+
+224
+00:12:10,350 --> 00:12:11,370
+Volviendo a esto.
+
+225
+00:12:11,520 --> 00:12:13,050
+Ahora estamos en esta estructura.
+
+226
+00:12:13,050 --> 00:12:16,620
+Una vez que terminas el gancho, vas a
+hacer un poco de contexto aquí, ¿vale?
+
+227
+00:12:16,620 --> 00:12:17,850
+Que va a ser la esperanza.
+
+228
+00:12:17,970 --> 00:12:19,710
+Y luego empezamos con el contenido.
+
+229
+00:12:19,740 --> 00:12:23,670
+Dales esperanza, ¿vale?: "Los
+resultados que ves son posibles.
+
+230
+00:12:23,670 --> 00:12:28,680
+¿Por qué? Porque tengo este sistema, esta
+cosa, estos pasos, este paso a paso, este
+
+231
+00:12:28,680 --> 00:12:33,270
+proceso", lo que sea. Si me dices
+que eres alto y que esa es la
+
+232
+00:12:33,270 --> 00:12:38,400
+única razón por la que puedes hacer mates o,
+ya sabes, meter estos triples o lo que sea,
+
+233
+00:12:38,400 --> 00:12:41,820
+tiros de tres y cosas así, eso va
+a ser terrible para tu audiencia.
+
+234
+00:12:41,820 --> 00:12:43,410
+¿Por qué? A la gente no le va a gustar.
+
+235
+00:12:43,410 --> 00:12:46,470
+A la gente no le va a gustar
+ver que no tiene algo que es
+
+236
+00:12:46,470 --> 00:12:49,400
+necesario para hacer lo
+que estás explicando.
+
+237
+00:12:49,650 --> 00:12:51,000
+¿Verdad? Entonces, ¿qué vas a decir?
+
+238
+00:12:51,000 --> 00:12:56,630
+"Bueno, yo soy alto, pero mi amigo aquí es
+bajito y puede hacer mates; mira, lanza el
+
+239
+00:12:56,880 --> 00:12:58,140
+balón y puede hacer un mate", ¿vale?
+
+240
+00:12:58,290 --> 00:13:02,550
+No tienes que profundizar tanto, porque
+ya mostraste en la intro a alguien
+
+241
+00:13:02,550 --> 00:13:06,060
+haciendo un mate, o a alguien haciéndolo,
+o metiendo un triple, o lo que sea.
+
+242
+00:13:06,150 --> 00:13:10,380
+Muy bien. Así que todo eso que
+te enseño, que te digo aquí,
+
+243
+00:13:10,590 --> 00:13:12,270
+no tienes que volver a demostrarlo.
+
+244
+00:13:12,480 --> 00:13:15,000
+Pero no mientas.
+Simplemente diles la verdad:
+
+245
+00:13:15,240 --> 00:13:19,410
+"No necesitas esto, esto y
+esto, porque puedes tener esto.
+
+246
+00:13:20,070 --> 00:13:22,040
+Y este es el paso a paso", ¿verdad?
+
+247
+00:13:22,110 --> 00:13:26,700
+"La gente juega sin zapatillas y,
+ya sabes, sin nada; literalmente
+
+248
+00:13:26,700 --> 00:13:30,650
+juegan con los pies en el
+suelo y aun así juegan bien al
+
+249
+00:13:30,690 --> 00:13:34,740
+baloncesto", ¿vale? Así que eso
+definitivamente no es un factor, ¿vale?
+
+250
+00:13:34,740 --> 00:13:38,280
+Puede ayudarte. Obviamente no te
+vas a quemar porque, ya sabes,
+
+251
+00:13:38,280 --> 00:13:42,300
+el suelo está caliente y demás, pero no
+necesitas unas zapatillas súper especiales, un
+
+252
+00:13:42,300 --> 00:13:46,770
+equipo súper especial ni ropa
+ni nada para hacer estas cosas.
+
+253
+00:13:46,950 --> 00:13:49,080
+¿Vale? Eso es lo que vamos a hacer aquí.
+
+254
+00:13:49,080 --> 00:13:50,550
+Vamos a darle esperanza a la gente.
+
+255
+00:13:51,510 --> 00:13:54,450
+"Sé que quizá ahora pienses: 'Pero
+soy bajito, estoy gordo' o lo que sea,
+
+256
+00:13:55,320 --> 00:13:57,870
+'¿necesito esto o aquello?'.
+No, no, no, no lo necesitas.
+
+257
+00:13:58,260 --> 00:14:03,540
+Puedes meter un triple aunque
+seas bajito, gordo, o mujer,
+
+258
+00:14:03,540 --> 00:14:08,220
+mayor, joven, demasiado joven o demasiado
+mayor, o aunque estés en este país o en aquel
+
+259
+00:14:08,220 --> 00:14:10,410
+país". Ya sabes, obviamente
+conoces a tu gente.
+
+260
+00:14:10,410 --> 00:14:11,790
+Obviamente conoces a tu audiencia.
+
+261
+00:14:12,060 --> 00:14:17,430
+Así que ve a por eso aquí. Elimina las
+creencias limitantes que tienen en la cabeza.
+
+262
+00:14:17,550 --> 00:14:21,240
+¿Vale? Muy bien. Este paso es lo que
+llamo el paso del mercado, ¿vale?
+
+263
+00:14:21,270 --> 00:14:23,700
+Esta es la verdadera clave de
+la psicología de la gente.
+
+264
+00:14:23,700 --> 00:14:27,720
+¿Por qué? Porque vas a
+describir su situación y vas a
+
+265
+00:14:27,720 --> 00:14:29,820
+entrar muy a fondo en sus vidas.
+
+266
+00:14:29,820 --> 00:14:34,500
+Aquí es donde, creo que ya te lo
+dije antes, si puedes describir la
+
+267
+00:14:34,500 --> 00:14:39,840
+situación de alguien tan bien que se
+sienta súper comprendido y diga: "Dios
+
+268
+00:14:39,840 --> 00:14:44,370
+mío, esa es mi vida", si de verdad puedes
+hacer eso, hay un sesgo que dice que
+
+269
+00:14:44,370 --> 00:14:48,150
+también creerá que tienes la
+solución, así que se quedará contigo
+
+270
+00:14:48,150 --> 00:14:52,650
+hasta que le des esa solución,
+porque le suenas a experto, porque
+
+271
+00:14:52,650 --> 00:14:55,080
+puedes describir su
+situación mejor que él.
+
+272
+00:14:55,230 --> 00:14:57,050
+Entonces, ¿cuáles son estos pasos?
+
+273
+00:14:57,060 --> 00:14:59,880
+Primero, vamos a explicar
+claramente su situación.
+
+274
+00:14:59,880 --> 00:15:05,070
+"Si sientes que cada vez que lanzas el
+balón, el balón se va a la izquierda
+
+275
+00:15:05,070 --> 00:15:08,910
+sin razón, aunque estés quieto
+frente a la canasta cuando lanzas,
+
+276
+00:15:08,910 --> 00:15:11,130
+y luego el balón se va a la
+izquierda o a la derecha...
+
+277
+00:15:11,520 --> 00:15:15,840
+Si te ha pasado eso, déjame decirte
+que es absolutamente normal.
+
+278
+00:15:15,840 --> 00:15:17,460
+Le pasa a todo el mundo.
+
+279
+00:15:17,580 --> 00:15:20,040
+Y tu problema no está en
+las piernas ni en las manos.
+
+280
+00:15:20,040 --> 00:15:23,310
+Tu problema está en la
+altura", por ejemplo.
+
+281
+00:15:23,310 --> 00:15:27,600
+¿Verdad? Y luego empiezo a decir cosas
+como: "y no tu estatura, sino la altura real
+
+282
+00:15:27,780 --> 00:15:28,710
+a la que sujetas el balón.
+
+283
+00:15:28,710 --> 00:15:31,260
+Si sujetas el balón
+aquí, eso es un problema.
+
+284
+00:15:31,260 --> 00:15:32,940
+O si lo pones aquí, eso es un problema.
+
+285
+00:15:32,940 --> 00:15:35,040
+Deberías sujetar el
+balón aquí", y ya está.
+
+286
+00:15:35,040 --> 00:15:37,170
+Por ejemplo, puedo decir
+que es un problema de codos:
+
+287
+00:15:37,440 --> 00:15:42,000
+"Muy bien. Quizá no lo habías pensado,
+pero los codos tienen que ir pegados al
+
+288
+00:15:42,000 --> 00:15:45,920
+cuerpo. Que no estén abiertos, porque cuando
+están abiertos y lanzas, el balón se va
+
+289
+00:15:45,930 --> 00:15:49,650
+a la izquierda o a la derecha,
+según tu tamaño y equilibrio".
+
+290
+00:15:50,160 --> 00:15:52,500
+Por ejemplo, me lo acabo de
+inventar literalmente, por ejemplo.
+
+291
+00:15:52,500 --> 00:15:54,870
+Muy bien. Luego empiezas a
+describir las creencias limitantes:
+
+292
+00:15:55,080 --> 00:15:59,790
+"No depende de tus piernas,
+ni de lo que sea, ni de esto.
+
+293
+00:15:59,790 --> 00:16:03,660
+Y está bien. Solo depende
+de tus codos", ¿vale?
+
+294
+00:16:03,840 --> 00:16:05,790
+Y luego expongo y amplifico el dolor.
+
+295
+00:16:05,880 --> 00:16:10,110
+"Por eso de verdad
+necesitas escuchar esto.
+
+296
+00:16:10,110 --> 00:16:11,550
+El problema no está ahí.
+
+297
+00:16:11,550 --> 00:16:14,520
+De verdad deberías enfocarte
+en los codos", ¿vale?
+
+298
+00:16:14,820 --> 00:16:17,280
+Y la gente va a decir:
+"Oh, sí, sí, sí, sí.
+
+299
+00:16:17,280 --> 00:16:19,470
+Así que los codos son la clave,
+los codos son lo importante.
+
+300
+00:16:19,470 --> 00:16:22,620
+Vale. ¿Cómo aprendo?
+¿Qué puedo hacer aquí?".
+
+301
+00:16:22,750 --> 00:16:24,960
+Ya sabes, se empiezan a
+estresar por eso, ¿vale?
+
+302
+00:16:25,200 --> 00:16:29,850
+Porque en realidad trasladaste
+su estrés de una cosa a otra, e
+
+303
+00:16:30,000 --> 00:16:34,350
+intentas darles más información
+y claridad, pero siguen
+
+304
+00:16:34,350 --> 00:16:39,570
+estresados; quizá un poco aliviados,
+porque ven o creen que el problema
+
+305
+00:16:39,570 --> 00:16:44,190
+no son ellos mismos, sino su ejecución.
+
+306
+00:16:44,190 --> 00:16:46,290
+Ya sabes, si les dijeras
+"Oh, es porque eres bajito",
+
+307
+00:16:46,530 --> 00:16:47,820
+"Mierda, no puedo arreglar eso.
+
+308
+00:16:47,850 --> 00:16:48,960
+¿Qué voy a hacer ahora?".
+
+309
+00:16:49,320 --> 00:16:53,890
+Si haces eso, es un problema, ¿vale?
+
+310
+00:16:53,890 --> 00:16:57,270
+Porque es un problema real
+que no pueden superar, ¿vale?
+
+311
+00:16:57,300 --> 00:17:01,020
+En cambio, si les dices: "Oh, no
+te preocupes, es por tus codos".
+
+312
+00:17:01,440 --> 00:17:02,910
+"¿Qué pasa con mis codos?".
+
+313
+00:17:02,910 --> 00:17:04,200
+"Oh, los tienes abiertos.
+
+314
+00:17:04,200 --> 00:17:05,280
+Deberías tenerlos cerrados.
+
+315
+00:17:05,460 --> 00:17:07,500
+Déjame explicarte". Y luego vas al video.
+
+316
+00:17:07,620 --> 00:17:09,810
+Muy bien. Así que empiezas
+a presentar el vehículo.
+
+317
+00:17:09,930 --> 00:17:12,330
+No tienes que decir nada específico aquí.
+
+318
+00:17:12,390 --> 00:17:16,500
+Lo único específico, como una solución
+específica, lo único específico que
+
+319
+00:17:16,500 --> 00:17:17,850
+das es el problema.
+
+320
+00:17:17,850 --> 00:17:20,940
+Lo único que les dices es: "Oh,
+cada vez que lanzas, se va a la
+
+321
+00:17:20,940 --> 00:17:25,440
+izquierda o a la derecha", o "cada vez
+que haces algo, ya sabes, pasa esto".
+
+322
+00:17:25,860 --> 00:17:28,020
+Eso describe su situación.
+
+323
+00:17:28,020 --> 00:17:33,120
+Así que, solo con eso, puedes pasar al
+siguiente paso: presentar el vehículo.
+
+324
+00:17:33,270 --> 00:17:34,350
+Muy bien. Esto es lo que dije:
+
+325
+00:17:34,350 --> 00:17:36,060
+lo de los codos, ¿vale?
+
+326
+00:17:36,420 --> 00:17:37,620
+Aquí es donde lo explicas.
+
+327
+00:17:37,620 --> 00:17:40,500
+Bueno, déjame explicar el vehículo.
+En ese problema dije los codos.
+
+328
+00:17:40,500 --> 00:17:43,350
+Pero eso es algo muy específico y tonto.
+
+329
+00:17:43,350 --> 00:17:49,110
+Así que vas a decir algo como...
+dirás: "Oh, es el método Ultra
+
+330
+00:17:49,110 --> 00:17:52,140
+No Fallar un Triple", o "Maybe a Triple".
+
+331
+00:17:52,140 --> 00:17:56,580
+Básicamente, lo que vas a hacer
+es darle un nombre, darle algo.
+
+332
+00:17:56,580 --> 00:18:00,330
+¿Vale? Normalmente ustedes
+ya lo tienen, ¿vale?
+
+333
+00:18:00,660 --> 00:18:03,120
+Si no lo tienes, pues
+lo construyes, ¿vale?
+
+334
+00:18:03,300 --> 00:18:05,460
+"Cada vez que montas en bici", bla, bla.
+
+335
+00:18:05,460 --> 00:18:10,200
+"Oh, eso es porque necesitas arreglar
+tu... necesitas el método de coordinación".
+
+336
+00:18:10,200 --> 00:18:14,460
+"¿Y qué es eso?". "Necesitas
+coordinar los brazos con las piernas y
+
+337
+00:18:14,460 --> 00:18:17,940
+tu peso. Así que te voy a enseñar
+eso y todo esto, porque tengo
+
+338
+00:18:17,940 --> 00:18:20,280
+todo un método que explica
+paso a paso cómo arreglarlo".
+
+339
+00:18:20,520 --> 00:18:23,310
+¿Vale? Así que lo que vas a hacer ahí
+es literalmente lo que acabo de hacer.
+
+340
+00:18:23,310 --> 00:18:26,910
+Vas a mencionar de 1 a 3 puntos
+clave o ventajas clave de esto.
+
+341
+00:18:27,060 --> 00:18:28,560
+Por ejemplo: "Cuando,
+
+342
+00:18:29,460 --> 00:18:33,300
+ya sabes, mantienes los codos pegados
+al cuerpo, agarras mejor el balón.
+
+343
+00:18:33,510 --> 00:18:36,630
+Si estás así, tiendes a perder el balón
+
+344
+00:18:36,690 --> 00:18:40,200
+si alguien hace así; pero si
+estás así y alguien te golpea, vas
+
+345
+00:18:40,200 --> 00:18:42,210
+a conservar el balón". Ese es un punto.
+
+346
+00:18:42,240 --> 00:18:47,610
+"Además, eso hace que el balón
+esté a tu alrededor, en tu zona.
+
+347
+00:18:47,610 --> 00:18:51,780
+Si el balón está así, va a estar a la
+altura del pecho, porque es lo más
+
+348
+00:18:51,780 --> 00:18:54,000
+común. Nadie va así.
+
+349
+00:18:54,000 --> 00:18:55,080
+Nadie camina así, ¿verdad?
+
+350
+00:18:55,320 --> 00:18:59,040
+La gente va así, y por eso pierde
+el balón. Si el balón está
+
+351
+00:18:59,040 --> 00:19:03,330
+más cerca de ti, cero pérdidas: es
+más seguro y lo vas a conservar
+
+352
+00:19:03,330 --> 00:19:07,410
+más tiempo, no solo porque cuando
+la gente lo golpea es más difícil
+
+353
+00:19:07,410 --> 00:19:10,860
+quitártelo, sino porque no pueden
+golpearlo, porque lo cubres con tu cuerpo.
+
+354
+00:19:11,200 --> 00:19:16,590
+¿Verdad? Y además es más fácil, porque
+puedes botarlo delante de ti en lugar
+
+355
+00:19:16,590 --> 00:19:18,450
+de a distancia.
+
+356
+00:19:18,690 --> 00:19:22,410
+Cuando lo botas lejos, se va a
+alejar de ti y vas a tener que
+
+357
+00:19:22,410 --> 00:19:23,430
+perseguir el balón.
+
+358
+00:19:23,640 --> 00:19:26,430
+Así que este método te
+va a ayudar con eso.
+
+359
+00:19:26,580 --> 00:19:29,700
+Y te voy a decir cómo mantener
+siempre los codos dentro".
+
+360
+00:19:29,700 --> 00:19:32,580
+¿Verdad? Todo esto que
+hago aquí es simplemente
+
+361
+00:19:32,580 --> 00:19:36,900
+darte una táctica, darte
+una forma de hacerlo.
+
+362
+00:19:36,900 --> 00:19:42,030
+¿Vale? Lo que estén aprendiendo,
+te doy sus beneficios para que
+
+363
+00:19:42,030 --> 00:19:46,500
+entiendas el porqué. Esta parte
+es importante, básicamente: si no
+
+364
+00:19:46,500 --> 00:19:50,910
+entienden esos beneficios, esas
+cosas que son el punto clave de esto,
+
+365
+00:19:51,180 --> 00:19:54,870
+pues van a perder el balón todo
+el rato y tener problemas,
+
+366
+00:19:55,080 --> 00:19:56,670
+¿vale? Y más adelante
+
+367
+00:19:56,670 --> 00:19:59,310
+vas a explicar por qué eso es
+importante para el triple:
+
+368
+00:19:59,310 --> 00:20:01,740
+"Porque cuando lo
+agarras aquí, lo lanzas".
+
+369
+00:20:01,830 --> 00:20:03,990
+Y eso es lo que llamo el momento.
+
+370
+00:20:04,110 --> 00:20:07,380
+¿Vale? Ahí es donde la gente va a
+decir: "Vale, pero ¿qué tiene que ver
+
+371
+00:20:07,500 --> 00:20:09,780
+mantener el balón cerca
+de ti con lanzar?".
+
+372
+00:20:10,110 --> 00:20:12,600
+"Pues porque...", y
+luego lo vas a mostrar.
+
+373
+00:20:12,660 --> 00:20:14,670
+Muy bien. ¿Dónde está el quinto punto?
+
+374
+00:20:14,760 --> 00:20:19,200
+El resultado final. "Lo que pasa es que,
+cuando mantienes el balón contigo, tiendes a
+
+375
+00:20:19,200 --> 00:20:23,250
+lanzarlo desde tu centro, en lugar de que,
+cuando mantienes el balón lejos, intentas
+
+376
+00:20:23,250 --> 00:20:26,100
+lanzarlo y lo lanzas desde la
+cabeza, que no es tu centro.
+
+377
+00:20:26,100 --> 00:20:31,800
+Tu centro está aquí, así que tienes
+que lanzarlo de abajo arriba y soltar
+
+378
+00:20:31,920 --> 00:20:36,870
+el balón", ¿verdad? Cosas así. De nuevo,
+me lo estoy inventando todo literalmente.
+
+379
+00:20:37,110 --> 00:20:39,780
+Pero eso va a mostrar el resultado final.
+
+380
+00:20:40,140 --> 00:20:44,340
+Va a mostrar cómo todo junto,
+todo el paso a paso que me
+
+381
+00:20:44,340 --> 00:20:47,940
+dijiste, va a, ya sabes, hacer que pase.
+
+382
+00:20:48,150 --> 00:20:52,710
+¿Vale? Siento que el ejemplo del baloncesto
+te va a ayudar a hacer esto, porque
+
+383
+00:20:52,710 --> 00:20:53,750
+es realmente lo que vas a hacer.
+
+384
+00:20:53,770 --> 00:20:58,020
+Simplemente cambia el baloncesto, cambia
+el problema, cambia el método y cambia los
+
+385
+00:20:58,020 --> 00:20:59,790
+pasos por lo que sea que hagas.
+
+386
+00:21:00,120 --> 00:21:03,150
+Pero el ejemplo del baloncesto
+es muy bueno para esto, ¿vale?
+
+387
+00:21:03,420 --> 00:21:05,250
+Así que vamos a mostrarlo todo.
+
+388
+00:21:05,250 --> 00:21:09,090
+Muy bien. Primero vamos a inspirar
+y tranquilizar a la gente: sus metas
+
+389
+00:21:09,090 --> 00:21:11,730
+se pueden lograr y el método es aplicable.
+
+390
+00:21:12,000 --> 00:21:13,620
+Es aplicable, ¿vale?
+
+391
+00:21:13,800 --> 00:21:16,440
+"Así que lo único que tenemos que
+hacer es seguir los pasos", ¿verdad?
+
+392
+00:21:16,440 --> 00:21:20,100
+"Si haces así y quieres
+lanzar desde aquí, agarras
+
+393
+00:21:20,100 --> 00:21:25,980
+el balón así. Lo bajamos, lo
+agarramos mejor, lo lanzas,
+
+394
+00:21:25,980 --> 00:21:29,850
+y vamos a lanzar de abajo arriba.
+
+395
+00:21:30,240 --> 00:21:31,740
+No lanzamos desde arriba
+
+396
+00:21:31,740 --> 00:21:36,000
+ni con los codos abiertos: lanzamos
+con los codos cerrados y de abajo
+
+397
+00:21:36,000 --> 00:21:37,000
+arriba. Y entonces lanzas".
+
+398
+00:21:37,110 --> 00:21:40,290
+Vale, quizá lo que digo es completamente
+incorrecto en términos de baloncesto.
+
+399
+00:21:40,590 --> 00:21:42,780
+Si hay algún entrenador
+de baloncesto aquí,
+
+400
+00:21:42,780 --> 00:21:45,120
+lo siento muchísimo por
+toda esta información.
+
+401
+00:21:45,120 --> 00:21:46,920
+No tengo ni idea de lo que digo
+
+402
+00:21:47,190 --> 00:21:48,510
+en cuanto al ejemplo.
+
+403
+00:21:48,660 --> 00:21:51,090
+Solo tengo idea de lo que
+digo en cuanto a los guiones.
+
+404
+00:21:51,090 --> 00:21:57,000
+Así que espero que entiendas
+mis guiones y que, ya
+
+405
+00:21:57,000 --> 00:22:01,290
+sabes, no critiques mi
+información de baloncesto.
+
+406
+00:22:01,290 --> 00:22:04,380
+Vale. El caso que enseñes, o lo que sea.
+
+407
+00:22:04,380 --> 00:22:06,750
+Así que, romper las creencias limitantes:
+
+408
+00:22:06,750 --> 00:22:09,210
+"Ves que no necesitas ser alto".
+
+409
+00:22:09,210 --> 00:22:12,990
+Por ejemplo: "Me voy a agachar y lo
+voy a hacer aquí", y luego lo haces
+
+410
+00:22:12,990 --> 00:22:15,720
+desde, ya sabes, muy abajo,
+lanzas el balón y demás.
+
+411
+00:22:16,080 --> 00:22:19,500
+Y la encestas, y la gente va
+a decir: "Mierda, lo hace
+
+412
+00:22:19,500 --> 00:22:23,880
+así. Ni siquiera... se agacha,
+se hace más pequeño, y lanza
+
+413
+00:22:23,880 --> 00:22:29,130
+igual y la mete". Así que, ya sabes,
+eso explica por qué es verdad.
+
+414
+00:22:29,130 --> 00:22:34,200
+Y básicamente tengo un dicho que
+dice: mejor mostrar que explicar.
+
+415
+00:22:34,200 --> 00:22:38,880
+Si puedes decir algo con acciones en
+lugar de palabras, usa las acciones.
+
+416
+00:22:38,880 --> 00:22:43,020
+¿Por qué? Porque la gente va a creer
+más las acciones que las palabras.
+
+417
+00:22:43,260 --> 00:22:48,660
+Vale, si podemos mostrar en lugar de
+explicar, mostramos. Y luego el contenido
+
+418
+00:22:48,660 --> 00:22:52,230
+y el desglose del modelo de
+negocio, el desglose de lo que sea.
+
+419
+00:22:52,230 --> 00:22:57,210
+Así que usa el 20%: 20% contenido,
+80% validación y ejemplos.
+
+420
+00:22:57,420 --> 00:23:01,800
+Y ahora vamos a pasar a la parte
+real del contenido, la parte real.
+
+421
+00:23:01,800 --> 00:23:05,100
+Vamos a tomar estos tres pasos
+que acabas de decir aquí y
+
+422
+00:23:05,100 --> 00:23:09,810
+explicarlos. Explicarlos muy brevemente
+otra vez, muy brevemente aquí, ¿vale?
+
+423
+00:23:09,840 --> 00:23:11,670
+Y los vas a tomar y a poner aquí.
+
+424
+00:23:11,670 --> 00:23:14,340
+Y puedes explicar tu
+metodología real, ¿vale?
+
+425
+00:23:14,400 --> 00:23:17,580
+Vale. Llegamos a la
+parte del contenido real.
+
+426
+00:23:17,670 --> 00:23:19,440
+Para mí, esta es mi parte favorita.
+
+427
+00:23:19,740 --> 00:23:21,420
+Es la parte más clave.
+
+428
+00:23:21,540 --> 00:23:25,470
+Es el 40% del video, ¿vale?
+
+429
+00:23:25,470 --> 00:23:28,740
+¿Por qué? Porque aquí es donde
+vas a tomar estos tres pasos que
+
+430
+00:23:29,070 --> 00:23:30,420
+explicaste muy brevemente aquí.
+
+431
+00:23:30,600 --> 00:23:34,170
+Y aquí te vas a poner en modo nerd, ¿vale?
+
+432
+00:23:34,170 --> 00:23:36,230
+Paso número uno, y vas a hablar de él.
+
+433
+00:23:36,240 --> 00:23:39,060
+Paso número dos, vas a hablar
+de él. Paso número tres,
+
+434
+00:23:39,060 --> 00:23:40,470
+y vas a hablar de él, ¿vale?
+
+435
+00:23:41,100 --> 00:23:43,620
+Y puedes seguir con más pasos, ¿vale?
+
+436
+00:23:43,800 --> 00:23:49,560
+Lo que esto te va a ayudar a
+hacer es la parte de enseñar
+
+437
+00:23:49,830 --> 00:23:51,360
+sin enseñar realmente.
+
+438
+00:23:51,360 --> 00:23:54,990
+¿Por qué? Porque es 20%
+contenido, 80% validación
+
+439
+00:23:54,990 --> 00:23:59,430
+y ejemplos. Igual que
+hago yo en este video.
+
+440
+00:23:59,430 --> 00:24:03,120
+Solo que yo tardo más en explicar
+porque explico demasiado.
+
+441
+00:24:03,450 --> 00:24:08,070
+Me estoy tomando mucho tiempo para explicar
+cómo hacer este video, pero tú lo vas
+
+442
+00:24:08,070 --> 00:24:10,380
+a hacer mucho más corto.
+
+443
+00:24:10,380 --> 00:24:12,450
+¿Por qué? Porque vas a hacer
+lo mismo que voy a hacer yo:
+
+444
+00:24:12,930 --> 00:24:16,620
+"Vas a lanzar así, haces
+esto, agarras el balón así y
+
+445
+00:24:16,620 --> 00:24:20,370
+aquello. ¿Por qué? Por esto,
+esto, esto, esto es esto y esto".
+
+446
+00:24:20,880 --> 00:24:24,210
+¿Verdad? Y luego muestras ejemplos y
+dices: "Mira a esta chica, que es muy
+
+447
+00:24:24,210 --> 00:24:26,610
+bajita. Pues mira cómo sujeta el balón".
+
+448
+00:24:26,610 --> 00:24:29,370
+¡Bum! Y luego analizas todos
+los videos: "O mira esto.
+
+449
+00:24:29,370 --> 00:24:33,090
+Aquí hay una persona alta
+haciendo lo mismo", bla, bla.
+
+450
+00:24:33,090 --> 00:24:34,620
+"Esa persona también sujeta el balón así".
+
+451
+00:24:34,620 --> 00:24:39,300
+Así que todo esto, ¿vale?, todos los pasos
+que tienes en este método para meter el
+
+452
+00:24:39,300 --> 00:24:43,020
+triple, que son el resultado final,
+tienes que explicarlos uno por uno.
+
+453
+00:24:43,020 --> 00:24:47,430
+Solo explícalos. No tienes que
+mostrar cómo hacerlos ahora.
+
+454
+00:24:47,430 --> 00:24:50,100
+Solo explícalos y muestra validación.
+
+455
+00:24:50,100 --> 00:24:53,550
+¿Vale? Que es básicamente lo
+que hice aquí, un poco mal.
+
+456
+00:24:54,420 --> 00:24:55,410
+Pero aquí no tienes...
+
+457
+00:24:55,410 --> 00:24:57,540
+No tienes que mostrarlo tanto.
+
+458
+00:24:57,540 --> 00:25:00,990
+Solo tienes que hacerlo brevemente; donde
+de verdad lo vas a hacer es aquí, ¿vale?
+
+459
+00:25:00,990 --> 00:25:02,130
+Esta es la parte del contenido.
+
+460
+00:25:02,580 --> 00:25:05,520
+Y aquí es donde puedes entrar
+y ver todas las cosas que
+
+461
+00:25:05,520 --> 00:25:06,540
+la gente no va a entender.
+
+462
+00:25:06,810 --> 00:25:08,730
+¿Por qué? Porque a la
+gente le va a gustar eso.
+
+463
+00:25:08,730 --> 00:25:10,740
+La gente va a decir: "Oh,
+este tipo es un experto.
+
+464
+00:25:10,740 --> 00:25:12,030
+Este tipo es un experto de verdad.
+
+465
+00:25:12,270 --> 00:25:14,790
+No estoy entendiendo nada de nada.
+
+466
+00:25:14,790 --> 00:25:16,260
+Pero este tipo es un experto.
+
+467
+00:25:16,380 --> 00:25:17,380
+Estos tipos son expertos de verdad".
+
+468
+00:25:17,400 --> 00:25:19,620
+Así que lo que va a pasar es
+que vas a emocionar a la gente.
+
+469
+00:25:19,980 --> 00:25:21,810
+La gente va a decir: "Oh, tiene sentido.
+
+470
+00:25:21,810 --> 00:25:22,800
+Solo que no sé cómo hacerlo.
+
+471
+00:25:22,800 --> 00:25:25,050
+Eso también tiene sentido, lo que
+dijiste; solo que no sé cómo hacerlo.
+
+472
+00:25:25,050 --> 00:25:27,330
+Y eso también tiene sentido,
+pero no sé cómo hacerlo".
+
+473
+00:25:27,330 --> 00:25:31,220
+Así que vamos a cerrar el video con
+la recomendación del video completo.
+
+474
+00:25:31,230 --> 00:25:34,620
+Tercera fase: podemos animar a los
+espectadores a ver la masterclass completa.
+
+475
+00:25:34,690 --> 00:25:37,050
+Recuerda que es esta de aquí.
+
+476
+00:25:37,050 --> 00:25:40,830
+Así que desde aquí mandaré a
+la gente a este video, ¿vale?
+
+477
+00:25:41,070 --> 00:25:44,790
+Y eso funciona de maravilla;
+funciona muy bien.
+
+478
+00:25:44,790 --> 00:25:46,950
+¿Por qué? Porque la gente
+está muy emocionada.
+
+479
+00:25:47,070 --> 00:25:50,670
+Primero, esta parte es gratis,
+pero los emocionas porque les das
+
+480
+00:25:50,670 --> 00:25:52,740
+validación y les vendes lo que tienes:
+
+481
+00:25:52,860 --> 00:25:54,600
+"Necesitas este método,
+necesitas este método.
+
+482
+00:25:54,780 --> 00:25:55,860
+Esto te va a cambiar la vida.
+
+483
+00:25:55,860 --> 00:25:58,830
+Esto es lo que va a, ya
+sabes, hacer por ti".
+
+484
+00:25:58,830 --> 00:26:03,120
+Bla, bla. Así que ejemplos y otra
+gente haciéndolo, pero no les das
+
+485
+00:26:03,120 --> 00:26:04,500
+los puntos clave, ¿vale?
+
+486
+00:26:04,890 --> 00:26:06,600
+Solo validas tus puntos.
+
+487
+00:26:06,600 --> 00:26:08,160
+Solo validas lo que necesitan.
+
+488
+00:26:08,160 --> 00:26:09,860
+¿Vale? Pero no lo enseñas.
+
+489
+00:26:09,870 --> 00:26:11,220
+¿Vale? "¿Cómo mantengo los codos?
+
+490
+00:26:11,220 --> 00:26:14,460
+Intento mantener los codos cuando
+corro todo el rato, y se me abren, y
+
+491
+00:26:14,460 --> 00:26:16,950
+no sé cómo agarrar... Lo
+que dices no funciona".
+
+492
+00:26:16,960 --> 00:26:17,790
+"No, no, no es eso.
+
+493
+00:26:17,790 --> 00:26:22,950
+No es que no funcione. Es que no
+sabes ejecutarlo bien o no lo has
+
+494
+00:26:22,950 --> 00:26:28,950
+aprendido. Por eso tengo esta versión
+más larga, para que aprendas a hacerlo
+
+495
+00:26:28,950 --> 00:26:32,640
+paso a paso. Así se agarra el balón:
+
+496
+00:26:32,790 --> 00:26:37,410
+tienes que limpiarte las manos antes de
+agarrar el balón, o siempre tienes que poner
+
+497
+00:26:37,410 --> 00:26:41,550
+los dedos no abiertos, sino
+así, en posición de agarre.
+
+498
+00:26:41,700 --> 00:26:46,350
+O tienes que, en lugar de
+hacer eso, dejar los dedos
+
+499
+00:26:46,350 --> 00:26:49,950
+abiertos y apretar el balón entre
+las manos para que no se escape.
+
+500
+00:26:49,950 --> 00:26:52,290
+Por eso puedes hacerlo
+incluso con las palmas.
+
+501
+00:26:52,290 --> 00:26:54,360
+Y la gente no va a poder
+quitarte el balón".
+
+502
+00:26:54,360 --> 00:26:55,450
+O quizá es distinto, no sé.
+
+503
+00:26:55,450 --> 00:26:57,330
+No soy, de nuevo, no soy
+experto en baloncesto.
+
+504
+00:26:57,330 --> 00:27:02,100
+Vale, así que todas estas cosas
+que explico aquí son lo que
+
+505
+00:27:02,100 --> 00:27:05,760
+tienes que decirle a la gente aquí antes
+de animarla a ver ese video, porque va
+
+506
+00:27:05,760 --> 00:27:08,370
+a pensar que acaba de
+perder un poco de tiempo.
+
+507
+00:27:08,370 --> 00:27:09,800
+Pero no, están muy emocionados.
+
+508
+00:27:09,800 --> 00:27:10,800
+De verdad quieren aprender.
+
+509
+00:27:11,100 --> 00:27:14,870
+Simplemente vas a usar
+toda esa emoción y vas a
+
+510
+00:27:14,870 --> 00:27:18,690
+mandarlos al video de verdad
+donde lo explicas, que dura una
+
+511
+00:27:18,690 --> 00:27:21,240
+hora, y ahí tienes el tiempo y todo.
+
+512
+00:27:21,600 --> 00:27:25,800
+Lo que pasa con eso es que un video
+atrae a la audiencia; un video, ya sabes,
+
+513
+00:27:25,800 --> 00:27:30,570
+atrae gente nueva. Y luego, con ese
+video, la mandamos al otro tutorial,
+
+514
+00:27:30,720 --> 00:27:34,860
+donde la gente realmente va a aprender, ¿vale?
+Ahí la gente realmente va a aprender porque
+
+515
+00:27:34,860 --> 00:27:38,040
+es un video más largo y, ya
+sabes, explicas paso a paso.
+
+516
+00:27:38,370 --> 00:27:42,390
+Pero en este video de aquí lo único que tenemos
+que hacer es enganchar a la gente con la idea,
+
+517
+00:27:42,390 --> 00:27:44,430
+engancharla a meter triples, ¿vale?
+
+518
+00:27:44,550 --> 00:27:45,780
+Engancharla al baloncesto.
+
+519
+00:27:45,960 --> 00:27:48,540
+Y después simplemente la vas
+a mandar a la otra parte.
+
+520
+00:27:48,690 --> 00:27:51,000
+Esto es lo que llamo el dúo dinámico.
+
+521
+00:27:51,000 --> 00:27:55,110
+¿Por qué? Porque un video es la
+versión larga de ese video, ¿vale?
+
+522
+00:27:55,350 --> 00:27:58,710
+Y ese video, normalmente,
+la gente no lo ve tanto.
+
+523
+00:27:58,920 --> 00:28:03,750
+Obviamente la gente lo ve mucho, pero
+normalmente el principal problema para que lo vea
+
+524
+00:28:03,810 --> 00:28:06,720
+gente nueva es que exige
+un gran compromiso.
+
+525
+00:28:06,930 --> 00:28:10,530
+Este video va a buscar a la gente
+que es un poco escéptica, que
+
+526
+00:28:10,530 --> 00:28:13,950
+no quiere hacer el gran compromiso
+de ver un video de una hora.
+
+527
+00:28:14,010 --> 00:28:17,190
+Simplemente van a ver esto,
+este video de diez minutos.
+
+528
+00:28:17,400 --> 00:28:21,060
+Lo que va a pasar es que se van a
+emocionar y los mandamos al otro video.
+
+529
+00:28:21,600 --> 00:28:24,150
+Por eso es un dúo dinámico.
+
+530
+00:28:24,150 --> 00:28:27,360
+Y funciona muy, muy, muy
+bien con esta estrategia.
+
+531
+00:28:27,360 --> 00:28:29,040
+Así que ahora tienes cuatro guiones.
+
+532
+00:28:29,040 --> 00:28:34,200
+Y uno de ellos es el OmniScript, que
+funciona con cualquier video de YouTube.
+
+533
+00:28:34,200 --> 00:28:35,940
+Y ya te mostré cómo hacerlo.
+
+534
+00:28:36,060 --> 00:28:37,290
+Cómo me funciona a mí,
+
+535
+00:28:37,290 --> 00:28:38,520
+y lo mismo para la gente.
+
+536
+00:28:38,520 --> 00:28:41,970
+Así que lo único que necesitas
+ahora es Hidden Framework.
+
+537
+00:28:42,120 --> 00:28:46,020
+No sé si lo compraste o no, pero el
+siguiente paso después de tener un guion es
+
+538
+00:28:46,020 --> 00:28:47,430
+grabarlo, obviamente.
+
+539
+00:28:47,550 --> 00:28:51,210
+Así que tienes que aprender a
+grabar. Si ya compraste Hidden
+
+540
+00:28:51,210 --> 00:28:53,190
+Framework, nos vemos en ese curso.
+
+541
+00:28:53,190 --> 00:28:55,350
+Pero si no, por favor, hazlo.
+
+542
+00:28:55,350 --> 00:28:57,990
+Te dejo el enlace en la descripción,
+porque con ese curso vas
+
+543
+00:28:57,990 --> 00:29:01,590
+a aprender a montar un set
+como este muy, muy rápido.
+
+544
+00:29:01,590 --> 00:29:05,460
+Y además vas a aprender a hablar
+a cámara como yo, como lo hago yo:
+
+545
+00:29:05,640 --> 00:29:09,960
+bajar tu energía cuando tienes que
+bajarla y explicas algo, o subir
+
+546
+00:29:09,960 --> 00:29:13,980
+tu energía cuando tienes que subirla
+y decir algo, igual que hago yo,
+
+547
+00:29:13,980 --> 00:29:16,230
+¿vale? Te lo digo porque quiero ayudarte.
+
+548
+00:29:16,230 --> 00:29:18,210
+Así que, por favor, ve a por ello.
+
+549
+00:29:18,420 --> 00:29:19,710
+Es muy, muy barato.
+
+550
+00:29:19,710 --> 00:29:22,830
+Te dejo el enlace en la
+descripción y nos vemos dentro.
+
+551
+00:29:23,610 --> 00:29:24,060
+Adiós, adiós.
